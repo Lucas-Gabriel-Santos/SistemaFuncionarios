@@ -1,5 +1,5 @@
 # SistemaFuncionários
-Projeto de sistema de funcionários em Java com integração ao banco de dados MySQL.
+Projeto simples de um sistema de funcionários em Java com integração ao banco de dados MySQL.
 
 ## 📝 Conceitos usados para o projeto
 - Programação Orientada a Objetos (Herança, Polimorfismo e Encapsulamento);
