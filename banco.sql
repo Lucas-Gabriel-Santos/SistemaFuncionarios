@@ -1,6 +1,6 @@
 -- Criação do Banco de Dados
-CREATE DATABASE IF NOT EXISTS sistema_funcionarios;
-USE sistema_funcionarios;
+CREATE DATABASE IF NOT EXISTS empresa;
+USE empresa;
 
 -- Criação da Tabela de Funcionários
 CREATE TABLE IF NOT EXISTS funcionarios (
